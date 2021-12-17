@@ -10,3 +10,12 @@
  ```
 
  ![](screenshots/pic1.png)
+
+  ## How to Add Contact
+  In order to add a contact into the database, the user must enter a value for each field, and then click 'Add Records to DB'
+
+   ![](screenshots/pic2.png)
+
+  ## How to Retrieve Contact
+
+  
