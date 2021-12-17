@@ -3,3 +3,5 @@
 
  ## How to Run
  <img src=“screenshots/pic1.png” width = “100” > 
+
+ ![](screenshots/pic1.png)
