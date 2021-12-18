@@ -21,8 +21,14 @@ A simple address book GUI utilizing Python, SQL, and Tkinter
 ![](screenshots/pic3.png)
 
 
+The database gets updated every time a record is added
+![](screenshots/pic4.png)
+
+
   ## How to Retrieve Contact
 
-	In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city in the 'City' field and pressing 'Select Specific Name'
+In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city in the 'City' field and pressing 'Select Specific Name'
+
+
 
   
