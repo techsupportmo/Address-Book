@@ -32,8 +32,15 @@ The database gets updated every time a record is added
 
   ## How to Retrieve Contact
 
-In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city in the 'City' field and pressing 'Select Specific Name'
+In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city and state in the corresponding field and pressing 'Select Specific Name'
 
+
+![](screenshots/pic5.png)
+
+
+Only names from the specified city will be displayed
+
+![](screenshots/pic6.png)
 
 
   
