@@ -20,9 +20,12 @@ A simple address book GUI utilizing Python, SQL, and Tkinter
 
 ![](screenshots/pic3.png)
 
+<br />
 
 The database gets updated every time a record is added
 ![](screenshots/pic4.png)
+
+<br />
 
 
   ## How to Retrieve Contact
