@@ -34,7 +34,7 @@ The database gets updated every time a record is added
 
 In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city and state in the corresponding field and pressing 'Select Specific Name'
 
-
+<br />
 
 Only names from the specified city will be displayed
 
