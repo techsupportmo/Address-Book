@@ -35,10 +35,14 @@ The database gets updated every time a record is added
 In order to retrieve a contact, the user can filter the contacts by city by typing in the specific city and state in the corresponding field and pressing 'Select Specific Name'
 
 
+
+Only names from the specified city will be displayed
+
+
 ![](screenshots/pic5.png)
 
 
-Only names from the specified city will be displayed
+Only names from Mansfield TX are displayed above
 
 ![](screenshots/pic6.png)
 
