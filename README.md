@@ -23,6 +23,8 @@ A simple address book GUI utilizing Python, SQL, and Tkinter
 <br />
 
 The database gets updated every time a record is added
+
+
 ![](screenshots/pic4.png)
 
 <br />
